@@ -1,5 +1,5 @@
-# Adassa Website
-Adassa website
+# Online Academy
+Online Academy
 
 ## Development
 
