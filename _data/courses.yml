@@ -1,0 +1,12 @@
+## Courses.
+---
+- name: JMTS Core
+  categories: Job Management & Tracking System
+  description: Job Management & Tracking System (JMTS) Core module.
+  link: https://classroom.google.com/c/Njg1MDM5NDcwNjg0?cjc=fdlwvvb
+  image: https://www.gstatic.com/classroom/themes/img_graduation.jpg
+- name: JMTS PM
+  categories: Job Management & Tracking System
+  description: Job Management & Tracking System (JMTS) Purchase Management (PM) module.
+  link: https://classroom.google.com/c/NzAyNzk2NDQyOTIx?cjc=g2avnnz
+  image: https://www.gstatic.com/classroom/themes/img_code.jpg
